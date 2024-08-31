@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: bc731161399abd24e903b7a95b5b8336
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 11_CoolLightingWall_Frame_0
+    originalName: 
+    pivot: {x: 0.49921754, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1300
+      y: 1816
+      width: 639
+      height: 294
+    spriteID: e0d7ac4e6db8348458c6bdf1df82cf8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1300, y: 1816}
+  - name: 11_CoolLightingWall_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 640
+      height: 294
+    spriteID: 02230daf141717644a526adbfc0df4da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 11_CoolLightingWall_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 306
+      width: 640
+      height: 294
+    spriteID: 5f53d724d5652e5408cab8c7b138499a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 306}
+  - name: 11_CoolLightingWall_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 608
+      width: 640
+      height: 294
+    spriteID: e3ec92152d64d3642930e32e7a4f39c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 608}
+  - name: 11_CoolLightingWall_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 910
+      width: 640
+      height: 294
+    spriteID: 08bda8e64826a6f47a33e71bcf5e4638
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 910}
+  - name: 11_CoolLightingWall_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1212
+      width: 640
+      height: 294
+    spriteID: 8dafa741c518e8647ad59593a0b350a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1212}
+  - name: 11_CoolLightingWall_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1514
+      width: 640
+      height: 294
+    spriteID: 2ee1939a90dc5f34197892df6bf12a19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1514}
+  - name: 11_CoolLightingWall_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1816
+      width: 640
+      height: 294
+    spriteID: a320f8ee5a5af5f45b9598e86bb5c580
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1816}
+  - name: 11_CoolLightingWall_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2118
+      width: 640
+      height: 294
+    spriteID: 33310d58bb367564992ef2e470f27645
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2118}
+  - name: 11_CoolLightingWall_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2420
+      width: 640
+      height: 294
+    spriteID: 7866da8803bbfa342b9c84de070f8e5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2420}
+  - name: 11_CoolLightingWall_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2722
+      width: 640
+      height: 294
+    spriteID: 18e8cfde5b2d6bf49a5dd6b310f4c910
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2722}
+  - name: 11_CoolLightingWall_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3024
+      width: 640
+      height: 294
+    spriteID: c4d29791ae444d247a0526d9d28d8b96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3024}
+  - name: 11_CoolLightingWall_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3326
+      width: 640
+      height: 294
+    spriteID: 8c31feb67198ec64a81ffcb45d7fd5ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3326}
+  - name: 11_CoolLightingWall_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3628
+      width: 640
+      height: 294
+    spriteID: 34911fbd83c401448a655eab5c28da95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3628}
+  - name: 11_CoolLightingWall_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 4
+      width: 640
+      height: 294
+    spriteID: 3f209775fb3bc6946920570b51091b7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 4}
+  - name: 11_CoolLightingWall_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 306
+      width: 640
+      height: 294
+    spriteID: b17f40f4c31857742b59f7fd300ac691
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 306}
+  - name: 11_CoolLightingWall_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 608
+      width: 640
+      height: 294
+    spriteID: 1ec2668c828dd494d86c85beecb2b131
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 608}
+  - name: 11_CoolLightingWall_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 910
+      width: 640
+      height: 294
+    spriteID: 2fc6552be0923984ab0e18e9f69ba7ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 910}
+  - name: 11_CoolLightingWall_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 1212
+      width: 640
+      height: 294
+    spriteID: 346a8913d6dae924c87247db1d72fc1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 1212}
+  - name: 11_CoolLightingWall_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 1514
+      width: 640
+      height: 294
+    spriteID: 5506e11480eb121479949c47d674f407
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 1514}
+  - name: 11_CoolLightingWall_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 1816
+      width: 640
+      height: 294
+    spriteID: da6871eeed77dad42a39c02af8406edd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 1816}
+  - name: 11_CoolLightingWall_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 2118
+      width: 640
+      height: 294
+    spriteID: 9a4824dc65f235644bb145d004cdbd10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 2118}
+  - name: 11_CoolLightingWall_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 2420
+      width: 640
+      height: 294
+    spriteID: 410d8f2edfdfd6b47bc1509b7294e99f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 2420}
+  - name: 11_CoolLightingWall_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 2722
+      width: 640
+      height: 294
+    spriteID: aaaeae5d36047a8418583c38a10d1bb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 2722}
+  - name: 11_CoolLightingWall_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 3024
+      width: 640
+      height: 294
+    spriteID: a03804f654d8f0e46902fb8d4f21208b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 3024}
+  - name: 11_CoolLightingWall_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 3326
+      width: 640
+      height: 294
+    spriteID: 6e8303576491ccd4a9f784fc9bbaf19c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 3326}
+  - name: 11_CoolLightingWall_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 3628
+      width: 640
+      height: 294
+    spriteID: 5148054971d4b4b4da9cf1a571adce97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 3628}
+  - name: 11_CoolLightingWall_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1300
+      y: 4
+      width: 640
+      height: 294
+    spriteID: aa41ff3c051b7eb4bbb8949162572ca0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1300, y: 4}
+  - name: 11_CoolLightingWall_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1300
+      y: 306
+      width: 640
+      height: 294
+    spriteID: b662d0e087bade944942383b2079f194
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1300, y: 306}
+  - name: 11_CoolLightingWall_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1300
+      y: 608
+      width: 640
+      height: 294
+    spriteID: 9ac8ccee2cb2cde4caab08bb3ca6b77a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1300, y: 608}
+  - name: 11_CoolLightingWall_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1300
+      y: 910
+      width: 640
+      height: 294
+    spriteID: d5e871201bc462d4997ba419e6dcb19e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1300, y: 910}
+  - name: 11_CoolLightingWall_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1300
+      y: 1212
+      width: 640
+      height: 294
+    spriteID: 7456834d1afee6041a482b896605e560
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1300, y: 1212}
+  - name: 11_CoolLightingWall_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: -0.22448981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1300
+      y: 1514
+      width: 640
+      height: 294
+    spriteID: acbaefc5411dcd8458e880d58bc1651b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1300, y: 1514}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 2057766900
+    name: 11_CoolLightingWall
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 11_CoolLightingWall_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 66
+        width: 639
+        height: 294
+      spriteId: e0d7ac4e6db8348458c6bdf1df82cf8d
+    - name: 11_CoolLightingWall_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 02230daf141717644a526adbfc0df4da
+    - name: 11_CoolLightingWall_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 5f53d724d5652e5408cab8c7b138499a
+    - name: 11_CoolLightingWall_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: e3ec92152d64d3642930e32e7a4f39c7
+    - name: 11_CoolLightingWall_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 08bda8e64826a6f47a33e71bcf5e4638
+    - name: 11_CoolLightingWall_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 8dafa741c518e8647ad59593a0b350a8
+    - name: 11_CoolLightingWall_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 2ee1939a90dc5f34197892df6bf12a19
+    - name: 11_CoolLightingWall_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: a320f8ee5a5af5f45b9598e86bb5c580
+    - name: 11_CoolLightingWall_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 33310d58bb367564992ef2e470f27645
+    - name: 11_CoolLightingWall_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 7866da8803bbfa342b9c84de070f8e5e
+    - name: 11_CoolLightingWall_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 18e8cfde5b2d6bf49a5dd6b310f4c910
+    - name: 11_CoolLightingWall_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: c4d29791ae444d247a0526d9d28d8b96
+    - name: 11_CoolLightingWall_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 8c31feb67198ec64a81ffcb45d7fd5ff
+    - name: 11_CoolLightingWall_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 34911fbd83c401448a655eab5c28da95
+    - name: 11_CoolLightingWall_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 3f209775fb3bc6946920570b51091b7d
+    - name: 11_CoolLightingWall_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: b17f40f4c31857742b59f7fd300ac691
+    - name: 11_CoolLightingWall_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 1ec2668c828dd494d86c85beecb2b131
+    - name: 11_CoolLightingWall_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 2fc6552be0923984ab0e18e9f69ba7ba
+    - name: 11_CoolLightingWall_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 346a8913d6dae924c87247db1d72fc1e
+    - name: 11_CoolLightingWall_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 5506e11480eb121479949c47d674f407
+    - name: 11_CoolLightingWall_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: da6871eeed77dad42a39c02af8406edd
+    - name: 11_CoolLightingWall_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 9a4824dc65f235644bb145d004cdbd10
+    - name: 11_CoolLightingWall_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 410d8f2edfdfd6b47bc1509b7294e99f
+    - name: 11_CoolLightingWall_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: aaaeae5d36047a8418583c38a10d1bb5
+    - name: 11_CoolLightingWall_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: a03804f654d8f0e46902fb8d4f21208b
+    - name: 11_CoolLightingWall_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 6e8303576491ccd4a9f784fc9bbaf19c
+    - name: 11_CoolLightingWall_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 5148054971d4b4b4da9cf1a571adce97
+    - name: 11_CoolLightingWall_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: aa41ff3c051b7eb4bbb8949162572ca0
+    - name: 11_CoolLightingWall_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: b662d0e087bade944942383b2079f194
+    - name: 11_CoolLightingWall_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 9ac8ccee2cb2cde4caab08bb3ca6b77a
+    - name: 11_CoolLightingWall_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: d5e871201bc462d4997ba419e6dcb19e
+    - name: 11_CoolLightingWall_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: 7456834d1afee6041a482b896605e560
+    - name: 11_CoolLightingWall_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 294
+      spriteId: acbaefc5411dcd8458e880d58bc1651b
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 640, y: 360}

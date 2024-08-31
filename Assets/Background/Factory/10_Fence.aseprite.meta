@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: 5e97d0b85940023459ff808256020992
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 10_Fence_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 640
+      height: 45
+    spriteID: 57b69bcf48963e648b9b5ab8dd8f1735
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 10_Fence_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 57
+      width: 640
+      height: 45
+    spriteID: cb6372607031f3a4fbb0053cf180bc7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 57}
+  - name: 10_Fence_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 110
+      width: 640
+      height: 45
+    spriteID: 2a5d810fda1e8c84e8e8f85673de713d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 110}
+  - name: 10_Fence_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 163
+      width: 640
+      height: 45
+    spriteID: 4fa8492f0d753eb45b7d56a403701674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 163}
+  - name: 10_Fence_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 216
+      width: 640
+      height: 45
+    spriteID: 0d26df81198964440b8be4c79fdd7c72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 216}
+  - name: 10_Fence_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 269
+      width: 640
+      height: 45
+    spriteID: 0a176a190bebfd04a993dbd436454847
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 269}
+  - name: 10_Fence_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 322
+      width: 640
+      height: 45
+    spriteID: e0b737ffebcdd3747ac78809b5679361
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 322}
+  - name: 10_Fence_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 375
+      width: 640
+      height: 45
+    spriteID: a07340b3d1c3727448221b481d32e976
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 375}
+  - name: 10_Fence_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 428
+      width: 640
+      height: 45
+    spriteID: 18fd08f3c0cccac4391198b5869a9147
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 428}
+  - name: 10_Fence_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 481
+      width: 640
+      height: 45
+    spriteID: 535388eb7be8a6b479e1d43f1a8652f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 481}
+  - name: 10_Fence_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 534
+      width: 640
+      height: 45
+    spriteID: f6a3828113ed998428ded1bbd1247139
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 534}
+  - name: 10_Fence_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 587
+      width: 640
+      height: 45
+    spriteID: 814d35e5f2b142645872ddcc770eb3de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 587}
+  - name: 10_Fence_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 640
+      width: 640
+      height: 45
+    spriteID: f9988d58528c9464390307f94006c020
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 640}
+  - name: 10_Fence_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 693
+      width: 640
+      height: 45
+    spriteID: 3df1efa18ccbcb148b14c4b55ddc3bc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 693}
+  - name: 10_Fence_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 746
+      width: 640
+      height: 45
+    spriteID: 63700e97321a23c4195b12574aa64d89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 746}
+  - name: 10_Fence_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 799
+      width: 640
+      height: 45
+    spriteID: 9188288332f9f3540a43e442c1aeea20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 799}
+  - name: 10_Fence_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 852
+      width: 640
+      height: 45
+    spriteID: b831461779b4f594799d7c0d58093e9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 852}
+  - name: 10_Fence_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 905
+      width: 640
+      height: 45
+    spriteID: 2088701f142228346a190858ac15bc41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 905}
+  - name: 10_Fence_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 958
+      width: 640
+      height: 45
+    spriteID: a3ac54e076b63d64d8cc2e0ad6002fc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 958}
+  - name: 10_Fence_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1011
+      width: 640
+      height: 45
+    spriteID: 13a58710cdb9c884989490f0e0dac3b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1011}
+  - name: 10_Fence_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1064
+      width: 640
+      height: 45
+    spriteID: 9134170db51dc0649aead5fcdd420baf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1064}
+  - name: 10_Fence_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1117
+      width: 640
+      height: 45
+    spriteID: 0591a89f2a9554a48a6362e88b060f12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1117}
+  - name: 10_Fence_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1170
+      width: 640
+      height: 45
+    spriteID: 4bcce5da22190a54b9f509e9ccb77b40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1170}
+  - name: 10_Fence_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1223
+      width: 640
+      height: 45
+    spriteID: 5fc8a11c39e29da4db47acc363f28b49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1223}
+  - name: 10_Fence_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1276
+      width: 640
+      height: 45
+    spriteID: f29210d8c063bb24ebe0ad219669578a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1276}
+  - name: 10_Fence_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1329
+      width: 640
+      height: 45
+    spriteID: ac62796f3321a4d4ab5fa132f3056529
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1329}
+  - name: 10_Fence_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1382
+      width: 640
+      height: 45
+    spriteID: 0b22db286d358d14ba469ef1069af12f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1382}
+  - name: 10_Fence_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1435
+      width: 640
+      height: 45
+    spriteID: 66b709cd8e7924b489b10db64bc5d9fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1435}
+  - name: 10_Fence_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1488
+      width: 640
+      height: 45
+    spriteID: 9d103f19844aa644da684e2934791304
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1488}
+  - name: 10_Fence_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1541
+      width: 640
+      height: 45
+    spriteID: 5d98322548af2144a819a7e10fa61852
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1541}
+  - name: 10_Fence_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1594
+      width: 640
+      height: 45
+    spriteID: 2628ec1d958fa094b84169939d7a33ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1594}
+  - name: 10_Fence_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1647
+      width: 640
+      height: 45
+    spriteID: 1edd31b501f4eac40b8e438698063e55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1647}
+  - name: 10_Fence_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1700
+      width: 640
+      height: 45
+    spriteID: 7a6655d67fd61b5488d433483563c482
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1700}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 915945409
+    name: 10_Fence
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 10_Fence_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 57b69bcf48963e648b9b5ab8dd8f1735
+    - name: 10_Fence_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: cb6372607031f3a4fbb0053cf180bc7c
+    - name: 10_Fence_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 2a5d810fda1e8c84e8e8f85673de713d
+    - name: 10_Fence_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 4fa8492f0d753eb45b7d56a403701674
+    - name: 10_Fence_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 0d26df81198964440b8be4c79fdd7c72
+    - name: 10_Fence_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 0a176a190bebfd04a993dbd436454847
+    - name: 10_Fence_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: e0b737ffebcdd3747ac78809b5679361
+    - name: 10_Fence_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: a07340b3d1c3727448221b481d32e976
+    - name: 10_Fence_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 18fd08f3c0cccac4391198b5869a9147
+    - name: 10_Fence_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 535388eb7be8a6b479e1d43f1a8652f0
+    - name: 10_Fence_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: f6a3828113ed998428ded1bbd1247139
+    - name: 10_Fence_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 814d35e5f2b142645872ddcc770eb3de
+    - name: 10_Fence_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: f9988d58528c9464390307f94006c020
+    - name: 10_Fence_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 3df1efa18ccbcb148b14c4b55ddc3bc9
+    - name: 10_Fence_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 63700e97321a23c4195b12574aa64d89
+    - name: 10_Fence_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 9188288332f9f3540a43e442c1aeea20
+    - name: 10_Fence_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: b831461779b4f594799d7c0d58093e9b
+    - name: 10_Fence_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 2088701f142228346a190858ac15bc41
+    - name: 10_Fence_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: a3ac54e076b63d64d8cc2e0ad6002fc0
+    - name: 10_Fence_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 13a58710cdb9c884989490f0e0dac3b2
+    - name: 10_Fence_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 9134170db51dc0649aead5fcdd420baf
+    - name: 10_Fence_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 0591a89f2a9554a48a6362e88b060f12
+    - name: 10_Fence_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 4bcce5da22190a54b9f509e9ccb77b40
+    - name: 10_Fence_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 5fc8a11c39e29da4db47acc363f28b49
+    - name: 10_Fence_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: f29210d8c063bb24ebe0ad219669578a
+    - name: 10_Fence_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: ac62796f3321a4d4ab5fa132f3056529
+    - name: 10_Fence_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 0b22db286d358d14ba469ef1069af12f
+    - name: 10_Fence_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 66b709cd8e7924b489b10db64bc5d9fd
+    - name: 10_Fence_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 9d103f19844aa644da684e2934791304
+    - name: 10_Fence_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 5d98322548af2144a819a7e10fa61852
+    - name: 10_Fence_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 2628ec1d958fa094b84169939d7a33ef
+    - name: 10_Fence_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 1edd31b501f4eac40b8e438698063e55
+    - name: 10_Fence_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 66
+        width: 640
+        height: 45
+      spriteId: 7a6655d67fd61b5488d433483563c482
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 640, y: 360}

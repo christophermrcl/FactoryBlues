@@ -13,6 +13,8 @@ public class DialogueScript : MonoBehaviour
 
     public static event Action<Story> OnCreateStory;
 
+    private GameObject playerObject;
+    private SpriteRenderer sprite;
     void Awake()
     {
         // Remove the default message
@@ -36,6 +38,8 @@ public class DialogueScript : MonoBehaviour
         // Remove all the UI on screen
         RemoveChildren();
 
+
+
         // Read all the content until we can't continue any more
         //while (story.canContinue)
         //{
@@ -43,8 +47,25 @@ public class DialogueScript : MonoBehaviour
             string text = story.Continue();
             // This removes any white space from the text.
             text = text.Trim();
-            // Display the text on screen!
-            CreateContentView(text);
+
+        List<string> tags = story.currentTags;
+
+        if(tags.Count > 0)
+        {
+            puzzleCanvas.transform.Find(tags[0]).gameObject.SetActive(true);
+        }
+
+        if (text == "END")
+        {
+            isDialogueActive = false;
+            RemoveChildren();
+            canvasFull.SetActive(false);
+            Debug.Log("story finish");
+            return;
+        }
+
+        // Display the text on screen!
+        CreateContentView(text);
         //}
 
         // Display all the choices, if there are any!
@@ -53,9 +74,9 @@ public class DialogueScript : MonoBehaviour
             for (int i = 0; i < story.currentChoices.Count; i++)
             {
                 Choice choice = story.currentChoices[i];
-                Button button = CreateChoiceView(choice.text.Trim());
+                GameObject button = CreateChoiceView(choice.text.Trim());
                 // Tell the button what to do when we press it
-                button.onClick.AddListener(delegate {
+                button.GetComponent<Button>().onClick.AddListener(delegate {
                     OnClickChoiceButton(choice);
                 });
             }
@@ -69,10 +90,7 @@ public class DialogueScript : MonoBehaviour
             });
         }*/
 
-        if(text == null)
-        {
-            Debug.Log("story finish");
-        }
+        
     }
 
     // When we click the choice button, tell the story to choose that choice!
@@ -90,20 +108,21 @@ public class DialogueScript : MonoBehaviour
         storyText.transform.SetParent(textCanvas.transform, false);
     }
 
+
     // Creates a button showing the choice text
-    Button CreateChoiceView(string text)
+    GameObject CreateChoiceView(string text)
     {
         // Creates the button from a prefab
-        Button choice = Instantiate(buttonPrefab) as Button;
+        GameObject choice = Instantiate(buttonPrefab) as GameObject;
         choice.transform.SetParent(buttonCanvas.transform, false);
 
         // Gets the text from the button prefab
-        Text choiceText = choice.GetComponentInChildren<Text>();
+        TextMeshProUGUI choiceText = choice.GetComponentInChildren<TextMeshProUGUI>();
         choiceText.text = text;
 
         // Make the button expand to fit the text
-        HorizontalLayoutGroup layoutGroup = choice.GetComponent<HorizontalLayoutGroup>();
-        layoutGroup.childForceExpandHeight = false;
+        //HorizontalLayoutGroup layoutGroup = choice.GetComponent<HorizontalLayoutGroup>();
+        //layoutGroup.childForceExpandHeight = false;
 
         return choice;
     }
@@ -123,21 +142,35 @@ public class DialogueScript : MonoBehaviour
             Destroy(textCanvas.transform.GetChild(i).gameObject);
         }
     }
-
+    private void Start()
+    {
+        playerObject = GameObject.FindGameObjectWithTag("Player");
+        sprite = gameObject.GetComponent<SpriteRenderer>();
+    }
     private void Update()
     {
         if (isNearPlayer)
         {
             if (Input.GetKeyUp(KeyCode.E) && !isDialogueActive)
             {
+                canvasFull.SetActive(true);
                 isDialogueActive = true;
                 StartStory();
             }
 
-            if (Input.GetMouseButtonUp(0) && isDialogueActive)
+            if (Input.GetMouseButtonUp(0) && isDialogueActive && story.canContinue)
             {
                 RefreshView();
             }
+        }
+
+        if(playerObject.transform.position.x < this.transform.position.x)
+        {
+            sprite.flipX = true;
+        }
+        else
+        {
+            sprite.flipX=false;
         }
     }
 
@@ -158,6 +191,12 @@ public class DialogueScript : MonoBehaviour
     }
 
     [SerializeField]
+    private GameObject puzzleCanvas = null;
+
+    [SerializeField]
+    private GameObject canvasFull = null;
+
+    [SerializeField]
     private TextAsset inkJSONAsset = null;
     public Story story;
 
@@ -170,5 +209,5 @@ public class DialogueScript : MonoBehaviour
     [SerializeField]
     private GameObject textPrefab = null;
     [SerializeField]
-    private Button buttonPrefab = null;
+    private GameObject buttonPrefab = null;
 }
